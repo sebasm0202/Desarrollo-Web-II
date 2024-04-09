@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "GUSTAVO ADOLFO TOLOZA",
+        "contact": "3053216255",
+        "address": "CRA 8 #9-71 VALENCIA",
+        "eMail": "gus@hotmail.com"
+    },
+    {
+        "id": "2",
+        "name": "SEBASTIAN MENDOZA POLO",
+        "contact": "3016326842",
+        "address": "C DE ORO",
+        "eMail": "mendoza@hotmail.com"
+    }
+]
